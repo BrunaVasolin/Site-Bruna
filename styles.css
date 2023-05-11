@@ -1,13 +1,10 @@
-<!DOCTYPE html>
-<html>
+:root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #167BF7;
+    --cor-de-fundo: #00030C;
+}
 
-<head>
-    <title>Alura Plus</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="style5.c55">
-</head>
-    
-<body></body>
-   
-</html>
+body {
+    background-color: var(--cor-de-fundo);
+}
